@@ -47,7 +47,10 @@
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
 
-
+#### Name: [Harsh Kumar](https://github.com/hkmr)
+- Place: Noida, UP, India
+- Bio: Software Engineer
+- GitHub: [imhrsh](https://github.com/hkmr)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
